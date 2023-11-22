@@ -29,7 +29,7 @@ response_body = [
     "</head>",
     '<body class="bg-slate-900 h-screen w-screen flex justify-center items-center text-slate-100">',
     '<div class="flex flex-col space-y-7 flex justify-center items-center p-10">',
-    '<img src="https://raw.githubusercontent.com/jpedr0c/42_webserv/7af2f7508dcc06b757145f55b0a4bd6334a0b74d/www/assets/image_upload.svg" class="w-2/5" />',
+    '<img src="https://raw.githubusercontent.com/EduardaDT/Webserv/main/www/assets/success.svg?token=GHSAT0AAAAAACJQY76JGTMKPNKPHWIMSOSKZK6K56A" class="w-2/5" />',
     '<div class="flex flex-col justify-center items-center space-y-3">',
     '<h1 class="font-bold text-3xl text-slate-400">Image uploaded to:</h1>',
     f'<code class="font-bold text-sm bg-slate-800 text-cyan-400 p-3 rounded-md md:text-xl">{image_path}</code>',
